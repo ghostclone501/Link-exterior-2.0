@@ -5,7 +5,7 @@
 }
 
 body{
-    background-image: url(politica.jpg);
+    background-color: aqua;
     min-height: 100vh;
     display: flex;
     justify-content: center;
@@ -34,4 +34,12 @@ body{
 
 .boton a:hover {
     transform: scale(1.2);
+}
+
+body {
+    background-image: url(politica.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
 }
