@@ -37,9 +37,14 @@ body{
 }
 
 body {
-    background-image: url(politica.jpg);
+    background-image: url(INSTA\ 5.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
+}
+
+.titulo{
+    text-align: center;
+    text-align: right;
 }
